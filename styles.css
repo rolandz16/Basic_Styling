@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  color: #375e97; 
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 2em;
+  border-bottom: 5px dotted #375e97;
+
+}
+th{
+    color: #999999;
+}
